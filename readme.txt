@@ -7,4 +7,3 @@ if you press submit it will save your text in local storage
 
 
 
-file:///C:/Users/User/Tjblue94.github.io/Planner/Hour_Planner.html
